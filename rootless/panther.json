@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2026060100/panther-2026060100-rootless-098ba02.zip",
-    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2026060100/panther-2026060100-rootless-098ba02.zip.csig"
+    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2026060600/panther-2026060600-rootless-098ba02.zip",
+    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2026060600/panther-2026060600-rootless-098ba02.zip.csig"
   }
 }
